@@ -42,7 +42,7 @@ Tentative list of topics that will be covered includes:
 * tree based methods
 * ensemble methods: random forest and boosting
 
-Each lecture will consist of a methodological part, where students will learn important concepts, and a lab part, where students will learn how to apply learned tools on real data sets in R. In addition, there will be a TA led session every day that will further help students apply the learn concepts in practice.
+Each lecture will consist of a methodological part, where students will learn important concepts, and a lab part, where students will learn how to apply learned tools on real data sets in R. In addition, there will be a TA led session every day that will further help students apply the learned concepts in practice.
 
 
 ## Prerequisites		
