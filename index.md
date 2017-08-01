@@ -9,7 +9,7 @@ layout: default
 **Office hours**:  
 
  * Mladen Kolar, by appointment  
- * Jingyu He, 
+ * Jingyu He, daily, time TBD
 
 **Lectures**: Week 1, August 7 - 12 (9:00a.m. - 12:00p.m.); Harper Center --- Room: C08
 
