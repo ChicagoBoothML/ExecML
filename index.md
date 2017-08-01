@@ -4,17 +4,20 @@ layout: default
 
 **Instructor**: Mladen Kolar ([MKolar@chicagobooth.edu](mailto:MKolar@chicagobooth.edu)), office: Harper Center 338   
 
-**TAs**: TBD
+**TA**: Jingyu He ( [jingyu.he@chicagobooth.edu](mailto:jingyu.he@chicagobooth.edu) )
 
-**Office hours**: by appointment  
+**Office hours**:  
 
-**Lectures**: location and time TBD
+ * Mladen Kolar, by appointment  
+ * Jingyu He, 
 
-**Review Session**: after every class, location TBD
+**Lectures**: Week 1, August 7 - 12 (9:00a.m. - 12:00p.m.); Harper Center --- Room: C08
+
+**Review Session**: location TBD
 
 [Syllabus](syllabus)  
 [Lectures](lectures)  
-[Project](Project)  
+[Project](project)  
 [Piazza Q&A](https://piazza.com/chicagobooth/summer2017/bus41812/home)  --- You can self-enroll [here](https://piazza.com/chicagobooth/summer2017/bus41812).
 
 **Previous related courses**:   
