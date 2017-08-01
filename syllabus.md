@@ -6,11 +6,14 @@ permalink: /syllabus/
 
 **Instructor**: Prof. Mladen Kolar ([MKolar@chicagobooth.edu](mailto:MKolar@chicagobooth.edu)), office: Harper Center 306   
 
-**TAs**:  TBD
+**TAs**:  Jingyu He ([jingyu.he@chicagobooth.edu](mailto:jingyu.he@chicagobooth.edu))
 
-**Office hours**: by appointment  
+**Office hours**: 
 
-**Review Session**: after every class, location TBD
+ * Mladen Kolar, by appointment  
+ * Jingyu He, daily, time TBD
+
+**Review Session**: Tuesday and Friday
 
 ## Piazza Discussion Forum
 
