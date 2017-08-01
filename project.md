@@ -5,7 +5,7 @@ permalink: /project/
 ---
 
 Your class project is an opportunity for you to explore an interesting Machine Learning problem of your choice
-in the context of a real-world data set. Your class project must be about new things you have done this semester; you can't use results you have developed in previous semesters. We will provide some project ideas here, but the best idea is to combine Machine Learning with a problem in your business area.
+in the context of a real-world data set. Your class project must be about new things you have done for this course; you can not use results you have developed in previous courses. We will provide some project ideas here, but the best idea is to combine Machine Learning with a problem in your business area.
 
 Here are examples of successful projects from past:
 
