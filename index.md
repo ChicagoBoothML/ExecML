@@ -13,7 +13,7 @@ layout: default
 
 **Lectures**: Week 1, August 7 - 12 (9:00a.m. - 12:00p.m.); Harper Center --- Room: C08
 
-**Review Session**: Harper 338, Tuesday and Friday 12:30p.m.-1:30p.m.
+**Review Session**: Harper C08, Tuesday and Friday 12:30p.m.-1:30p.m.
 
 [Syllabus](syllabus)  
 [Lectures](lectures)  
