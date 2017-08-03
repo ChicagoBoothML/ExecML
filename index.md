@@ -2,18 +2,18 @@
 layout: default
 ---
 
-**Instructor**: Mladen Kolar ([MKolar@chicagobooth.edu](mailto:MKolar@chicagobooth.edu)), office: Harper Center 338   
+**Instructor**: Mladen Kolar ([MKolar@chicagobooth.edu](mailto:MKolar@chicagobooth.edu)), office: Harper 338   
 
 **TA**: Jingyu He ( [jingyu.he@chicagobooth.edu](mailto:jingyu.he@chicagobooth.edu) )
 
 **Office hours**:  
 
  * Mladen Kolar, by appointment  
- * Jingyu He, daily, time TBD
+ * Jingyu He, daily, Harper 214GG
 
 **Lectures**: Week 1, August 7 - 12 (9:00a.m. - 12:00p.m.); Harper Center --- Room: C08
 
-**Review Session**: location TBD
+**Review Session**: Harper 338, Tuesday and Friday 12:30p.m.-1:30p.m.
 
 [Syllabus](syllabus)  
 [Lectures](lectures)  
