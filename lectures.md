@@ -13,7 +13,9 @@ permalink: /lectures/
 [Course Overview](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j5ygjld9mu26re),
 [Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j5ygjbkr1qa6pk)  
 
-Optional textbook reading: An Introduction to Statistical Learning: Section 2, Section 5.1
+_Optional textbook reading_: An Introduction to Statistical Learning: Section 2, Section 5.1
+
+* PDF can be freely obtained [here](http://www-bcf.usc.edu/~gareth/ISL/).
 
 Code: 
 
