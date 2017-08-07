@@ -4,6 +4,36 @@ title: Lectures
 permalink: /lectures/
 ---
 
+**Lecture 2**
+
+* recommender systems
+* regression trees; classification trees
+* tree induction algorithms; selecting the size of the tree
+
+Slides:
+
+* [Recommender Systems](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61ni5xfuii1sj)
+* [Classification and Regression Trees](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61niiyiyeo1va)
+
+Optional reading: 
+
+* Recommender Systems
+
+  * using R to recommend
+    + [recommenderlab: Reference manual](https://cran.r-project.org/web/packages/recommenderlab/recommenderlab.pdf)   
+    + [recommenderlab: Vignette](https://cran.r-project.org/web/packages/recommenderlab/vignettes/recommenderlab.pdf)   
+  * [Amazon.com Recommendations](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) 
+  * [Cold Start Problem](https://pdfs.semanticscholar.org/44af/1071f2b943b178ea8259e14fb0c722a3bcd4.pdf) ---  Finding a Needle in a Haystack of Reviews    
+  * [Matrix Factorization Techniques For Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
+  * [All Together Now: A Perspective on the Netflix Prize](http://dx.doi.org/10.1080/09332480.2010.10739787)
+
+* Classification and regression trees
+
+  * ISLR - Section 4, Section 8
+  * Overview of trees [PDF](http://www.ise.bgu.ac.il/faculty/liorr/hbchap9.pdf)
+
+
+
 **Lecture 1**
 
 * Introduction to supervised learning; regression and classification
