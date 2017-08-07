@@ -15,6 +15,10 @@ Slides:
 * [Recommender Systems](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61ni5xfuii1sj)
 * [Classification and Regression Trees](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j61niiyiyeo1va)
 
+Code and data:
+
+* scotch: [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
+
 Optional reading: 
 
 * Recommender Systems
