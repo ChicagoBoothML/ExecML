@@ -4,6 +4,21 @@ title: Lectures
 permalink: /lectures/
 ---
 
+**Lecture 3**
+
+* ensemble methods
+* bagging; random forest
+* boosting
+
+[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j631whfi6y4o2)
+
+Optional reading: 
+
+* ISLR - Section 8
+* Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
+* Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+
+
 **Lecture 2**
 
 * recommender systems
@@ -76,10 +91,5 @@ Code:
 * expected value framework
 * profit and lift curves
 
-**Lecture 5**
-
-* ensemble methods
-* bagging; random forest
-* boosting
 
 --->
