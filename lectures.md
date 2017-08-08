@@ -18,6 +18,8 @@ Slides:
 Code and data:
 
 * scotch: [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
+* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
+* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R) 
 
 Optional reading: 
 
