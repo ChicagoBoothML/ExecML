@@ -4,6 +4,8 @@ title: Lectures
 permalink: /lectures/
 ---
 
+**Homework**: [PDF](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j633b709f8n2jx)
+
 **Lecture 3**
 
 * ensemble methods
