@@ -14,6 +14,12 @@ permalink: /lectures/
 
 [Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j631whfi6y4o2)
 
+Code: 
+
+* boosting demo [1D](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/boosting_demo_1D.R), [2D](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/boosting_demo_2D.R)
+* bagging [trees](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/tree-bagging.R), [kNN](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/knn-bagging.R)
+* CaHousingAnalysis: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
+
 Optional reading: 
 
 * ISLR - Section 8
