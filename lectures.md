@@ -4,6 +4,26 @@ title: Lectures
 permalink: /lectures/
 ---
 
+
+**Lecture 4**
+
+* evaluating classifiers; confusion matrix
+* expected value framework
+* profit and lift curves
+
+[Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j66mdamgq7x5o6)
+
+Code:
+
+* Tabloid: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec04/tabloid.pdf).
+* Accidents: [Rmd](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec04/accidents.pdf).
+
+
+Optional reading: 
+
+* ISLR - Section 4
+
+
 **Homework**: [PDF](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j633b709f8n2jx)
 
 **Lecture 3**
@@ -93,11 +113,7 @@ Code:
 * regression trees; classification trees
 * tree induction algorithms; selecting the size of the tree
 
-**Lecture 4**
 
-* evaluating classifiers; confusion matrix
-* expected value framework
-* profit and lift curves
 
 
 --->
