@@ -12,7 +12,7 @@ permalink: /lectures/
 
 [Slides](https://piazza.com/class_profile/get_resource/izev9lpuf6f6bc/j68cm2cahji2b2)
 
-Code:
+Code: [https://github.com/ChicagoBoothML/ExecML/tree/master/code/lec05](https://github.com/ChicagoBoothML/ExecML/tree/master/code/lec05)
 
 Optional reading: 
 
